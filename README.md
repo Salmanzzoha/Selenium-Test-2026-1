@@ -13,6 +13,7 @@ A Selenium WebDriver automation project built using Java and Maven. This project
 - ChromeDriver
 - VS Code
 
+
 ---
 
 ## 📂 Project Structure
